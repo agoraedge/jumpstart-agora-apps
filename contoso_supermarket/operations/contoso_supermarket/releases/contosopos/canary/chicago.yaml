@@ -18,7 +18,7 @@ spec:
     spec:
       chart: ./contoso_supermarket/operations/contoso_supermarket/charts/contosopos
   values:
-    acr_name: agoraphysicalb1f94
+    acr_name: agoraphysical9e6dc
     branch_name: "canary"
     image_tag: v1.0
     github_User: agoraedge

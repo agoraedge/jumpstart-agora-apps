@@ -18,7 +18,7 @@ spec:
     spec:
       chart: ./contoso_supermarket/operations/contoso_supermarket/charts/contosodb
   values:
-    acr_name: agoraphysical9e6dc
+    acr_name: agoraphysicale6f18
     branch_name: "production"
     image_tag: v1.0
     github_User: agoraedge
